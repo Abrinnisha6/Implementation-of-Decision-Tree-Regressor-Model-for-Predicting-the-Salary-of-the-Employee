@@ -117,15 +117,3 @@ dt.predict([[5,6]])
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
 
 
-
-
-
-
-
-
-
-
-
-
-## Result:
-Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
